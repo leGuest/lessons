@@ -61,7 +61,7 @@ So ``<b>`` to open a tag, ``</b>`` to close it.
 
 ----
 
-_What about _``<i>`` (italic)? 
+_What about_ ``<i>`` (italic)? 
 To close it, use ``</i>``
 
 ```
