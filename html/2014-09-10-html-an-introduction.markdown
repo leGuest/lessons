@@ -2,7 +2,7 @@
 layout: post
 title: "html: an introduction"
 categories: html
-toc: <a href="../README.md">TOC</a>
+table of content: <a href="../README.md">index</a>
 ---
 
 
