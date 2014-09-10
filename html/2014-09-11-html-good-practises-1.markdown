@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "html: good practises part 1"
-date: 2014-09-10 18:11:00 +0200
-comments: true
 categories: html
 ---
 

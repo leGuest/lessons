@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "html: tags"
-date: 2014-09-12 18:11:00 +0200
-comments: true
 categories: html
 ---
 
@@ -67,16 +65,6 @@ Others useful tags:
       <h4>my subtitle</h4>
       <h5>my subtitle</h5>
       <h6>my subtitle</h6>
-
-  + ``<small></small>`` to make a text smaller.
-
-    ```
-      <small>text</small>
-    ```
-
-    will result as:
-
-    <small>text</small>
 
   + ``<strong></strong>`` to make a text more important
 

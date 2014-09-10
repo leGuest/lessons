@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "html: learn it all"
-date: 2014-09-12 18:11:00 +0200
-comments: true
 categories: html
 ---
 

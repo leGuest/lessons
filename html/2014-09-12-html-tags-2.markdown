@@ -1,0 +1,48 @@
+---
+layout: post
+title: "html: tags part 2"
+comments: true
+categories: html
+---
+
+HTML
+====
+
+Common tags part 2
+----
+
+#### others content tag
+
+  + ``<ul></ul>`` : to create a list (unordored list)
+
+    + ``<li></li>`` : will contains each items of the list
+
+    ```
+      <ul>
+        <li>apple</li>
+        <li>banana</li>
+        <li>kiwi</li>
+      </ul>
+    ```
+
+    will result as:
+
+      <ul>
+        <li>apple</li>
+        <li>banana</li>
+        <li>kiwi</li>
+      </ul>
+
+    + ``<img />`` : load an image in the page.
+
+      ```
+        <img src="../assets/images/html__tags--2.png" alt="a flower"
+      ```
+
+      __Notice:__
+
+        + it's an autoclose tag. Your dont put the adress of the image inside the
+          tag but in ``src`` (source).
+
+        + ``alt`` is a description of the image that will be displayed if the image can't load.
+          Although not needed, it's a good practise.

@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "html: an introduction"
-date: 2014-09-10 01:12:00 +0200
-comments: true
 categories: html
 ---
 
