@@ -21,12 +21,12 @@ But what if we want to add colors and others fancy stuff?
     that will add the so-call tag some fancyness.
 
     ```
-      <p font-color="red">My text in red</p>
+      <font color="red">My text in red</p>
     ```
 
     will result as:
 
-    <p font-color="red">My text in red</p>
+    <font color="red">My text in red</p>
 
     It was used when CSS was not created yet (<1996) and should _never_ be used.
     Nobody uses that anymore, it just for your information and/or the very rare case

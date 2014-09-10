@@ -17,21 +17,21 @@ Common tags part 2
 
     + ``<li></li>`` : will contains each items of the list
 
-    ```
-      <ul>
-        <li>apple</li>
-        <li>banana</li>
-        <li>kiwi</li>
-      </ul>
-    ```
+      ```
+        <ul>
+          <li>apple</li>
+          <li>banana</li>
+          <li>kiwi</li>
+        </ul>
+      ```
 
-    will result as:
+      will result as:
 
-      <ul>
-        <li>apple</li>
-        <li>banana</li>
-        <li>kiwi</li>
-      </ul>
+        <ul>
+          <li>apple</li>
+          <li>banana</li>
+          <li>kiwi</li>
+        </ul>
 
     + ``<img />`` : load an image in the page.
 
