@@ -70,4 +70,4 @@ Favorite Books
 <br/>
 - The first night of the war !
 
-Soluce: https://jsfiddle.com/rt3b864e/
+Soluce: https://jsfiddle.net/rt3b864e/
