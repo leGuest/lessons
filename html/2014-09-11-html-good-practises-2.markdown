@@ -98,14 +98,26 @@ block, so:
 
 _Make this text readable:_
 
+  * You can also format the text using tags, check previous lessons to see
+  some of them.
+
+  * Indent is always perfectible. To know when to stop indenting, just read your code
+  and ask yourself "Is it readable?". If it is, stop here, you're done.
+
+  * Dont pass too much time on indenting. If you pass more than 15 minutes on this, stop
+  where you are.
+
 ```
 Turn Ons/Off:
 turn on well no one can turn me on turn off everyone(liars, cheaters, people who think i
-am playing with i am not, anf if u think u can trick me well u dont!)...most are doing a
+am playing with i am not, and if u think u can trick me well u dont!)...most are doing a
 good job. Some people confuse freedom of expression, with the right to eat SHIT! Dont talk
-to me because your bored,or some other girl told u to go away, font come to me only when
+to me because your bored,or some other girl told u to go away, dont come to me only when
 you nedd a favor.I dont like being used.
 ```
+
+_soluce_ : http://jsfiddle.net/6orcf637/
+
 ### Good practises in HTML
 
 #### Deprecated tags
@@ -123,12 +135,12 @@ Yet they reminds in the langage, to permits old website to still work.
 As an example of deprecated tag:
 
 ```
-<marquee>my scrolling text</marquee>
+<b>my scrolling text</b>
 ```
 
 will result of:
 
-<marquee>my scrolling text</marquee>
+<b>my scrolling text</b>
 
-Since we can do the same trick in css, and that scrolling text
-is usually bad ergonomic practise, it is a bad practise.
+Why ``<b>`` is deprecated : http://stackeroverflow.com/a/271776
+
