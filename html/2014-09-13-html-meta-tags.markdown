@@ -2,18 +2,19 @@
 layout: post
 title: "html: meta tags"
 categories: html
+table of content: <a href="../README.md">index</a>
 ---
 
-HTML
+####[HTML](#html)
 ====
 
-How to make an html document?
+####[How to make an html document?](#how-to-make-a-html-document-?)
 -----
 
 To make an html document, simply make a file with the extension ``.html``
 That will tell the browser that the file should be interpreted as html.
 
-Meta-tag
+####[Meta-tag](#Meta-tag)
 ----
 
 However, we need to give him additional information:

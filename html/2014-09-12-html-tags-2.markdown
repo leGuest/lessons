@@ -5,13 +5,12 @@ comments: true
 categories: html
 ---
 
-HTML
+####[HTML](#html)
 ====
 
-Common tags part 2
-----
+####[Common tags part 2](#common-tag-2)
 
-#### others content tag
+####[others content tag](#others-content-tag)
 
   + ``<ul></ul>`` : to create a list (unordored list)
 
@@ -45,8 +44,8 @@ Common tags part 2
 
     __Notice:__
 
-      + it's an autoclose tag. Your dont put the adress of the image inside the
-        tag but in ``src`` (source).
-
+      + it's an [autoclose tag](./2014-09-10-html-an-introduction.markdown#autoclose-tag). 
+      You dont put the adress of the image inside the tag but in ``src`` (source). 
+      
       + ``alt`` is a description of the image that will be displayed if the image can't load.
         Although not needed, it's a good practise.
