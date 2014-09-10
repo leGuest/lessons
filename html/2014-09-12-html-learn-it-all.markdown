@@ -28,6 +28,10 @@ Other ressources are :
   + [stackeroverflow][2] : is a community where devs asks for a precise issue, and others give answers.
 
   + [github.com][3] : is a service to host open source project. You can stalk into projects to see some implementations.
+  
+  + [Mozilla Developer Network][4] : is an open source guide to learn evrything you want to
+  
+  + [Codecademy][5] : Learn coding, interactively
 
 ####[What's next?](#what-is-next-?)
 
@@ -36,3 +40,5 @@ In the next lessons, I will show you the commoon tags used.
 [1]: http://www.w3org/html/wg/drafts/html/CR/
 [2]: http://www.stackoverflow.com
 [3]: http://www.github.com
+[4]: https://developer.mozilla.org/en-US/docs/Web/HTML
+[5]: http://www.codecademy.com/
