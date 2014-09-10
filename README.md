@@ -3,7 +3,7 @@ Lessons from scratch
 
 #Table of contents
 
-  + [HTML](./html/2014-09-10-html-an-introduction)
+  + [HTML](./lessons/html/2014-09-10-html-an-introduction)
 
     + [Introduction](./html/2010-09-10-html-an-introduction#html__introduction)
 
