@@ -12,7 +12,7 @@ HTML
 Autoclose tag
 ----
 
-In the [previous lesson](previous_lesson), we talk about __tag rules__:
+In the [previous lesson](./2014-09-10-html-an-introduction.markdown), we talk about __tag rules__:
 
 
 > So you can see that to __open a tag__, you use ``<tag name>`` and to __close a tag__ :  ``</tag name>``.
