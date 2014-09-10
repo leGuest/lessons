@@ -4,12 +4,11 @@ title: "html: an introduction"
 categories: html
 ---
 
+[TOC](../README.md)
 
 ----
 
-table of contents: [README](../README.md)
 
-----
 
 ####[HTML](#html)
 ====
