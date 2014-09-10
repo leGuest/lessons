@@ -39,5 +39,5 @@ However, we need to give him additional information:
 
   + The character encoding: to be sure that character we type will be well interpreted,
   we need a character encoding. The international norm is ``utf-8``.
-  As an example, if we don't use a character encoding, the text ``éèô`` will appears like ````
+  As an example, if we don't use a character encoding, the text ``éèô`` will appears like ``Ã©Ã¨Ã´``
 
