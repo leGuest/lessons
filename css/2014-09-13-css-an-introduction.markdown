@@ -21,17 +21,21 @@ But what if we want to add colors and others fancy stuff?
     that will add the so-call tag some fancyness.
 
     ```
-      <font color="red">My text in red</font>
+      <p><font color="red">This is some text!</font></p>
     ```
 
     would result as:
 
+<<<<<<< HEAD
     <p style:"color:red">My text in red</p>
 
     But it won't. The current version of HTML (HTML5) does not support this
     feature. Instead, you will see:
 
     <p style:"color:red">My text in red</p>
+=======
+    <p><font color="red">This is some text!</font></p>
+>>>>>>> f47d73888d3c0cb7dedbd9c091a757fcee653748
 
     It was used when CSS was not created yet (<1996) and should _never_ be used.
     Nobody uses that anymore, it just for your information and/or the very rare case
