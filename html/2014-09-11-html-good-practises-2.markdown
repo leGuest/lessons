@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "html: good practises part 2"
-date: 2014-09-10 18:11:00 +0200
+date: 2014-09-11 18:11:00 +0200
 comments: true
 categories: html
 ---
@@ -11,6 +11,7 @@ HTML
 
 good practises part 2
 ----
+
 #### What are good practises in general?
 
 There's a lot of good practises.

@@ -1,0 +1,90 @@
+---
+layout: post
+title: "html: tags"
+date: 2014-09-12 18:11:00 +0200
+comments: true
+categories: html
+---
+
+HTML
+====
+
+Common tags part 1
+----
+
+#### content tag
+
+As you know :
+
+  + ``<b></b>`` to bold text,
+
+  + ``<u></u>`` to underline text,
+
+  + ``<i></i>`` to italic text,
+
+  + ``<s></s>`` to stroke text.
+
+
+Others useful tags:
+
+  + ``<a></a>`` to make a link a text
+
+    ```
+    <a href="http://www.google.com">google</a>
+    ```
+
+    will result as:
+
+    <a href="http://www.google.com">google</a>
+
+    Make a text clickable, and on click open the link provided in ``href`` (for hyperlink reference)
+
+      > An hyperlink is a reference to data that the reader can directly follow either by clicking or by hovering
+      > or that is followed automatically.
+
+      _Wikipedia_, http://en.wikipedia.org/wiki/hyperlink
+
+  + ``<h1></h1>`` to make a title (header importance: 1)
+
+    ```
+      <h1>my title</h1>
+    ```
+
+  + from ``<h2></h2>`` to ``<h6></h6>`` to make sub-title (header importance: 2 to 6)
+
+    ```
+      <h2>my subtitle</h2>
+      <h3>my subtitle</h3>
+      <h4>my subtitle</h4>
+      <h5>my subtitle</h5>
+      <h6>my subtitle</h6>
+    ```
+
+    will result as:
+
+      <h2>my subtitle</h2>
+      <h3>my subtitle</h3>
+      <h4>my subtitle</h4>
+      <h5>my subtitle</h5>
+      <h6>my subtitle</h6>
+
+  + ``<small></small>`` to make a text smaller.
+
+    ```
+      <small>text</small>
+    ```
+
+    will result as:
+
+    <small>text</small>
+
+  + ``<strong></strong>`` to make a text more important
+
+    ```
+      <strong>text</strong>
+    ```
+
+    will result as:
+
+    <strong>text</strong>
+
