@@ -8,6 +8,8 @@ table of content: <a href="../README.md">index</a>
 ####[HTML](#html)
 ====
 
+####[Meta tags](#meta-tags)
+
 ####[How to make an html document?](#how-to-make-a-html-document-?)
 -----
 
