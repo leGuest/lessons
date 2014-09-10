@@ -2,15 +2,15 @@
 layout: post
 title: "html: tags"
 categories: html
+table of content: <a href="../README.md">index</a>
 ---
 
-HTML
+####[HTML](#html)
 ====
 
-Common tags part 1
-----
+####[Common tags part 1](#common-tags-1)
 
-#### content tag
+####[ content tag](#content-tag)
 
 As you know :
 

@@ -2,20 +2,22 @@
 layout: post
 title: "html: good practises part 1"
 categories: html
+table of content: <a href="../README.md">index</a>
 ---
 
-HTML
+####[HTML](#html)
 ====
 
-good practises part 1
+
+####[good practises part 1](#good-practise-1)
 ----
 
-#### What is a good practise?
+####[What is a good practise?](#what-is-a-good-practise?)
 
 A good practise is a rule that is commonly accepted by the community of a language.
 This concept of good practise also apply in HTML.
 
-In the [previous lesson](./2014-09-10-html-tag-exception.markdown) :
+In the [previous lesson](./2014-09-10-html-tag-exception.markdown#autoclose-tag) :
 
 
 > So when a tag have no content inside, it's better to use this shortcut :
@@ -28,7 +30,7 @@ In the [previous lesson](./2014-09-10-html-tag-exception.markdown) :
 
 Using __autoclose tag__ is a good practise.
 
-#### Why doing good practise?
+####[Why doing good practise?](#why-doing-good-practise-?)
 
 It's often for readability.
 Developers use __different way of coding to obtain the same result__.

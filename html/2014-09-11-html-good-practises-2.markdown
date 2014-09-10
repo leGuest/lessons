@@ -2,20 +2,21 @@
 layout: post
 title: "html: good practises part 2"
 categories: html
+table of content: <a href="../README.md">index</a>
 ---
 
-HTML
+####[HTML](#html)
 ====
 
-good practises part 2
+####[good practises part 2](#good-practise-2)
 ----
 
-#### What are good practises in general?
+####[What are good practises in general?](#what-are-good-practises-in-general-?)
 
 There's a lot of good practises.
 I will only cover the basic parts of it.
 
-#### Indent
+####[Indent](#indent)
 
 Basically you won't write like this:
 
@@ -93,7 +94,7 @@ block, so:
 </p>
 ```
 
-#### Exercice
+####[Exercice](#exercice)
 
 _Make this text readable:_
 
@@ -117,9 +118,9 @@ you nedd a favor.I dont like being used.
 
 _soluce_ : http://jsfiddle.net/6orcf637/
 
-### Good practises in HTML
+###[Good practises in HTML](#good-practise-in-html)
 
-#### Deprecated tags
+####[Deprecated tags](#deprecated-tags)
 
 HTML is kind of old (30 years old or so) and web development is always changing.
 

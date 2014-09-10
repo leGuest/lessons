@@ -2,15 +2,15 @@
 layout: post
 title: "html: learn it all"
 categories: html
+table of content: <a href="../README.md">index</a>
 ---
 
-HTML
+####[HTML](#html)
 ====
 
-Learn it all
-----
+####[Learn it all](#learn-it-all)
 
-#### How much tags do I have to know to make an UI?
+####[How much tags do I have to know to make an UI?](#how-much-tags)
 
 These lessons won't cover all the tags of html.
 
@@ -21,7 +21,7 @@ When you want to do something, ask the biggest information base : internet.
 So search for : how to do \<x\> in HTML5, see if it works. Then see what [w3c][1] says, so you can have precise
 details on a tag or a set of tags.
 
-#### Others ressources
+####[Others  ressources](#others-ressources)
 
 Other ressources are :
 
@@ -29,7 +29,7 @@ Other ressources are :
 
   + [github.com][3] : is a service to host open source project. You can stalk into projects to see some implementations.
 
-#### What's next?
+####[What's next?](#what-is-next-?)
 
 In the next lessons, I will show you the commoon tags used.
 
