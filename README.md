@@ -49,4 +49,4 @@ Lessons from scratch
       
       + [Meta-tag](./html/2014-09-13-html-meta-tags.markdown#Meta-tag)
       
-    + [Complete basic structure of a html document]
+    + [Complete basic structure of a html document](./html/2014-09-13-html-structure-of-html-document.markdown#structure-of-a-html-document)
