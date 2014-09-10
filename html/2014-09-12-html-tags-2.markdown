@@ -33,7 +33,7 @@ Common tags part 2
           <li>kiwi</li>
         </ul>
 
-    + ``<img />`` : load an image in the page.
+  + ``<img />`` : load an image in the page.
 
       ```
         <img src="../assets/images/html__tags--2.png" alt="a flower"
