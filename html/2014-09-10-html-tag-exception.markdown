@@ -2,13 +2,14 @@
 layout: post
 title: "html: tag exception"
 categories: html
+table of content: <a href="../README.md">index</a>
 ---
 
-HTML
+####[HTML](#html)
 ====
 
-Autoclose tag
-----
+
+####[Autoclose tag](#autoclose-tag)
 
 In the [previous lesson](./2014-09-10-html-an-introduction.markdown), we talk about __tag rules__:
 
@@ -50,7 +51,8 @@ instead of:
 
 Tags like this are called __autoclose tags__.
 
-Exercice
+
+####[Exercice](#exercice)
 ----
 _With the ``<br>`` autoclose tag, make this in html :_
 
