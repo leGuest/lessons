@@ -35,18 +35,13 @@ Common tags part 2
 
   + ``<img />`` : load an image in the page.
 
-<<<<<<< HEAD
       ```
         <img src="../assets/images/html__tags--2.png" alt="a flower"
       ```
       will result as:
 
       <img src="../assets/images/html__tags--2.png" alt="a flower"
-=======
-    ```
-      <img src="../assets/images/html__tags--2.png" alt="a flower"
-    ```
->>>>>>> f47d73888d3c0cb7dedbd9c091a757fcee653748
+
 
     __Notice:__
 
