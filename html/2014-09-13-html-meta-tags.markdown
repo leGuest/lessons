@@ -25,8 +25,19 @@ However, we need to give him additional information:
     This will be important for the future
 
   + The _title_ of the document : So it can be displayed in the browser window:
+    ```
+      <title>title of the document</title>
+    ```
 
-  ![window browser title](../assets/images/html__metatag--browsertitle.jpg)
+    ![window browser title](../assets/images/html__metatag--browsertitle.jpg)
 
   + A favicon which is an icon (a little image) that be displayed in the browser window:
-  ![favicon](../assets/images/html__metatag--favicon.jpg)
+    ```
+      <link rel="icon" type="image/x-icon" href="../assets/images/favicon.ico"/>
+    ```
+    ![favicon](../assets/images/html__metatag--favicon.jpg)
+
+  + The character encoding: to be sure that character we type will be well interpreted,
+  we need a character encoding. The international norm is ``utf-8``.
+  As an example, if we don't use a character encoding, the text ``éèô`` will appears like ````
+
