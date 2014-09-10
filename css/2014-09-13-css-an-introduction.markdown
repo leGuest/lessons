@@ -21,7 +21,7 @@ But what if we want to add colors and others fancy stuff?
     that will add the so-call tag some fancyness.
 
     ```
-      <font color="red">My text in red</font>
+      <p><font color="red">This is some text!</font></p>
     ```
 
     will result as:
