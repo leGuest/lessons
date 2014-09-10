@@ -58,14 +58,14 @@ Favorite Books
 <br/>
 <br/>
 <br/>
-- Pride and prejudige!
+\- Pride and prejudige!
 <br/>
 <br/>
 <br/>
-- Last night of love,
+\- Last night of love,
 <br/>
 <br/>
 <br/>
-- The first night of the war !
+\- The first night of the war !
 
 Soluce: http://jsfiddle.net/rt3b864e/
