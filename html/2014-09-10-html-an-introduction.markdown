@@ -4,11 +4,11 @@ title: "html: an introduction"
 categories: html
 ---
 
-HTML
+####[HTML](#html)
 ====
 
-<div id="html__introduction">Introduction</div>
-----
+####[Introduction](#html__introduction)
+
 
 __HTML__ (Hyper Text Markup Langage) is a language that permits to format a content in the browser.
 You can see it as a __text file with extended functionality__.
@@ -18,9 +18,8 @@ A browser is an internet naviguator (firefox, chrome, IE, etc are browsers).
 If you try to read a text file (myfile.txt for example) within a browser, it will just __display raw text__. More than that, the browser won't even __understand when u put a new line__ : 
 The browser will go at a new line when it can't see new space to insert the new word.
 
-<div id="html__introduction--createatag">
-#### Create a tag
-</div>
+####[Create a tag](#html__introduction--createatag)
+
 
 
 __HTML__ have a set of instruction to control the behavior of text, called __tags__.
@@ -35,9 +34,7 @@ There's lots of __tags__ :
 
   ----
 
-<div id="html__introduction--createatag">
-#### Close a tag
-</div>
+####[Close a tag](#html__introduction--closeatag)
 
 However , if you do 
 ```
@@ -73,9 +70,9 @@ To close it, use ``</i>``
 So you can see that to __open a tag__, you use ``<tag name>`` and to __close a tag__ :  ``</tag name>``.
 This is the the same rule for almost all html tags.
 
-<div id="html__introduction--exercice">
-####Exercice
-</div>
+####[Exercice](#html__introduction--exercice)
+
+
 ----
 
 _Given:_
