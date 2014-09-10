@@ -38,6 +38,9 @@ Common tags part 2
       ```
         <img src="../assets/images/html__tags--2.png" alt="a flower"
       ```
+      will result as:
+
+      <img src="../assets/images/html__tags--2.png" alt="a flower"
 
       __Notice:__
 

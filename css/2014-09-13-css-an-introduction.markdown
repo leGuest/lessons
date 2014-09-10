@@ -24,9 +24,14 @@ But what if we want to add colors and others fancy stuff?
       <font color="red">My text in red</font>
     ```
 
-    will result as:
+    would result as:
 
-    <font color="red">My text in red</font>
+    <p style:"color:red">My text in red</p>
+
+    But it won't. The current version of HTML (HTML5) does not support this
+    feature. Instead, you will see:
+
+    <p style:"color:red">My text in red</p>
 
     It was used when CSS was not created yet (<1996) and should _never_ be used.
     Nobody uses that anymore, it just for your information and/or the very rare case
@@ -40,8 +45,6 @@ things to a formatted text.
 There's 3 implementations of CSS:
 
   + The good practise way:
-
-  
 
 
 
