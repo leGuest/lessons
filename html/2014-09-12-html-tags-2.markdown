@@ -35,14 +35,14 @@ Common tags part 2
 
   + ``<img />`` : load an image in the page.
 
-      ```
-        <img src="../assets/images/html__tags--2.png" alt="a flower"
-      ```
+    ```
+      <img src="../assets/images/html__tags--2.png" alt="a flower"
+    ```
 
-      __Notice:__
+    __Notice:__
 
-        + it's an autoclose tag. Your dont put the adress of the image inside the
-          tag but in ``src`` (source).
+      + it's an autoclose tag. Your dont put the adress of the image inside the
+        tag but in ``src`` (source).
 
-        + ``alt`` is a description of the image that will be displayed if the image can't load.
-          Although not needed, it's a good practise.
+      + ``alt`` is a description of the image that will be displayed if the image can't load.
+        Although not needed, it's a good practise.
