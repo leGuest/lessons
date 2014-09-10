@@ -26,7 +26,7 @@ But what if we want to add colors and others fancy stuff?
 
     will result as:
 
-    <p><font color="red">My text in red</font></p>
+    <p><font color="red">This is some text!</font></p>
 
     It was used when CSS was not created yet (<1996) and should _never_ be used.
     Nobody uses that anymore, it just for your information and/or the very rare case
