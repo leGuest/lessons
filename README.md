@@ -5,12 +5,12 @@ Lessons from scratch
 
   + [HTML](./html/2014-09-10-html-an-introduction.markdown#html)
 
-    + Introduction
+    + [Introduction](./html/2014-09-10-html-an-introduction.markdown#html__introduction)
 
-      + Create a tag
+      + [Create a tag](./html/2014-09-10-html-an-introduction.markdown#create-a-tag)
 
-      + Close a tag
+      + [Close a tag](./html/2014-09-10-html-an-introduction.markdown#close-a-tag)
 
-      + Exercice
+      + [Exercice](./html/2014-09-10-html-an-introduction.markdown#exercice)
 
 
