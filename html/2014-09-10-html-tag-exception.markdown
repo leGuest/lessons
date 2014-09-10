@@ -54,8 +54,7 @@ Tags like this are called __autoclose tags__.
 
 Exercice
 ----
-
-__Make this in html :__
+_With the ``<br>`` autoclose tag, make this in html :_
 
 Favorite Books
 <br/>
@@ -71,4 +70,4 @@ Favorite Books
 <br/>
 - The first night of the war !
 
-
+Soluce: https://jsfiddle.com/rt3b86e4/
