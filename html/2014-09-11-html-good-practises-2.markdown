@@ -142,5 +142,5 @@ will result of:
 
 <b>my scrolling text</b>
 
-Why ``<b>`` is deprecated : http://stackeroverflow.com/a/271776
+Why ``<b>`` is deprecated : http://stackoverflow.com/a/271776
 
