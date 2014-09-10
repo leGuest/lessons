@@ -48,3 +48,5 @@ Lessons from scratch
       + [How to make a html document](./html/2014-09-13-html-meta-tags.markdown#how-to-make-a-html-document-?)
       
       + [Meta-tag](./html/2014-09-13-html-meta-tags.markdown#Meta-tag)
+      
+    + [Complete basic structure of a html document]()
