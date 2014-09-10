@@ -2,8 +2,14 @@
 layout: post
 title: "html: an introduction"
 categories: html
-table of contents: [README](../README.md)
 ---
+
+
+----
+
+table of contents: [README](../README.md)
+
+----
 
 ####[HTML](#html)
 ====
