@@ -96,4 +96,3 @@ that it will encounter will follow the instruction between brackets (``{}``).
 ``p`` and ``h1`` tag to red color.
 
 You can see that block css is nothing more than grouping inline css styles by tag.
-
