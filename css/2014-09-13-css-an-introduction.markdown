@@ -71,7 +71,7 @@ A __CSS property__ is a command which tell the tag what it should modify.
 
 A __CSS value__ is a data that will be on set the CSS property.
 
-__Example:__
+####[Example :](#example)
 
 > I want to add a yellow background on the ``<p>`` tag:
 
@@ -97,6 +97,6 @@ result: http://jsfiddle.net/sa4ht98e/1/
 
 Like HTML, there is tons of tags in CSS, and there is a reference : [w3c/css](http://www.w3.org/Style/CSS).
 The CSS Spec is even bigger than the HTML one.
-I don't event know every CSS tags.
+I don't event know every CSS property.
 
 Like HTML, it wil comes with practise.
