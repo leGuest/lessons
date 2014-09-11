@@ -39,7 +39,7 @@ But what if we want to add colors and others fancy stuff?
     Nobody uses that anymore, it just for your information and/or the very rare case
     you meet it.
 
-####[CSS](#into-css)
+####[Introducing CSS](#into-css)
 
 CSS (Cascading Style Sheets) is a langage that permits to add colors, and many more
 things to a formatted text.
