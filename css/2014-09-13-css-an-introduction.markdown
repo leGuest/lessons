@@ -80,17 +80,18 @@ __Example:__
       i am a paragraph
     </p>
   ```
-result: [jsfiddle]
+result: http://jsfiddle.net/sa4ht98e/
 
 > I want to add space between lines in the ``<p>`` tag:
 
   ```
-    <p style="line-height:200%">
-      i am a paragraph
+   <p style="line-height:200%">
+      i am a paragraph<br/>
+      and i have bigger line-height
     </p>
   ```
 
-result: [jsfiddle]
+result: http://jsfiddle.net/sa4ht98e/1/
 
 ####[How much CSS do I have to learn](#how-much-css)
 
