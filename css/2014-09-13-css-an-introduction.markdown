@@ -64,12 +64,12 @@ Directly in the ``<p>`` :
     </p>
   ```
 
-We _attach_ a CSS style to a paragraph with the _property_ style.
-Then we do CSS: We assign ``purple`` _value_ to ``color`` _property_.
+We __attach__ a CSS style to a paragraph with the __property__ style.
+Then we do CSS: We assign ``purple`` __value__ to ``color`` __property__.
 
-A _CSS property_ is a command which tell the tag what it should modify.
+A __CSS property__ is a command which tell the tag what it should modify.
 
-A _CSS value_ is a data that will be on set the CSS property.
+A __CSS value__ is a data that will be on set the CSS property.
 
 __Example:__
 
