@@ -42,7 +42,7 @@ If I want to put a colored set of text, I would do like so:
 This might be boring to repeat each time
 the same CSS property.
 
-You can regroupt this CSS property by instructions, like this:
+You can regroup these CSS property by instructions, like this:
 ```
   <style type="text/css" media="all">
     p, h1{
@@ -85,8 +85,9 @@ You can regroupt this CSS property by instructions, like this:
 ```
 And this will have the same result.
 
-Inline css result: [jsfiddle]
-Block css result: [jsfiddle]
+Inline css result: http://jsfiddle.net/6p5vfgg6/
+
+Block css result: http://jsfiddle.net/6p5vfgg6/1/
 
 At first line of the ``style`` tag,
 I have ``p, h1{``. This telling the browser that every ``<p>`` _and_ ``<h1>``
