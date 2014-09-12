@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "css: an introduction"
-comments: true
+title: "external css file"
+comment: true
 categories: css
 table of content: <a href="../README.md">index</a>
 ---
