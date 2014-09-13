@@ -16,6 +16,6 @@ Structuring is needed to do as the begining, before you
 got bloated code.
 
 However, the structure is not conventioned, so you can structure
-how you want, the only need is to _get it clear for you and/or
-others developers_.
+how you want, the only need is to __get it clear for you and/or
+others developers__.
 
