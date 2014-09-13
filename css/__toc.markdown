@@ -1,29 +1,29 @@
 ####[CSS](#css)
   
-  + [The old and deprecated way](./css/2014-09-13-css-an-introduction.markdown#old-and-deprecated-way)
+  + [The old and deprecated way](./2014-09-13-css-an-introduction.markdown#old-and-deprecated-way)
   
-  + [Introducing CSS](./css/2014-09-13-css-an-introduction.markdown#into-css)
+  + [Introducing CSS](./2014-09-13-css-an-introduction.markdown#into-css)
   
-  + [Inline CSS](./css/2014-09-13-css-an-introduction.markdown#inline-css)
+  + [Inline CSS](./2014-09-13-css-an-introduction.markdown#inline-css)
   
-  + [How much CSS do I have to learn?](./css/2014-09-13-css-an-introduction.markdown#how-much-css)
+  + [How much CSS do I have to learn?](./2014-09-13-css-an-introduction.markdown#how-much-css)
   
-  + [Block style CSS](.css/2014-09-14-css-block-and-external-style.markdown#block-style-css)
+  + [Block style CSS](./2014-09-14-css-block-and-external-style.markdown#block-style-css)
     
-  + [External CSS style](./css/2014-09-14-css-external-file.markdown#external-css-file)
+  + [External CSS style](./2014-09-14-css-external-file.markdown#external-css-file)
 
-  + [Preprocessors](./css/2014-09-15-css-preprocessor.markdown#css)
+  + [Preprocessors](./2014-09-15-css-preprocessor.markdown#css)
   
-    + [What is a preprocessor?](./css/2014-09-15-css-preprocessor.markdown#what-is-a-preprocessor)
+    + [What is a preprocessor?](./2014-09-15-css-preprocessor.markdown#what-is-a-preprocessor)
     
-    + [Current preprocessors](./css/2014-09-15-css-preprocessor.markdown#current-preprocessors)
+    + [Current preprocessors](./2014-09-15-css-preprocessor.markdown#current-preprocessors)
     
-    + [Concrete example](./css/2014-09-15-css-preprocessor.markdown#concrete-example)
+    + [Concrete example](./2014-09-15-css-preprocessor.markdown#concrete-example)
   
-  + [Id and class](./css/2014-09-16-css-id-and-class.markdown#css)
+  + [Id and class](./2014-09-16-css-id-and-class.markdown#css)
     
-    + [Identifiers](./css/2014-09-16-css-id-and-class.markdown#css-class)
+    + [Identifiers](./2014-09-16-css-id-and-class.markdown#css-class)
     
-    + [Class](./css/2014-09-16-css-id-and-class.markdown#css-class)
+    + [Class](./2014-09-16-css-id-and-class.markdown#css-class)
 
   
