@@ -50,3 +50,6 @@ table of content: <a href="../README.md">index</a>
     
   + [Complete basic structure of a html document](./2014-09-13-html-structure-of-html-document.markdown#structure-of-a-html-document)
   
+  + [How to group page?](./2014-09-14-html-parts-of-the-page.markdown#how-to-group-a-page)
+  
+  + [Schema](./2014-09-14-html-parts-of-the-page.markdown#schema)
