@@ -78,7 +78,7 @@ Then we can use it in ``main.sass`` file:
   @include linear-gradient($green-primary, $orange-primary);
 ```
 
-Result: [jsfiddle](http://jsfiddle.net/5jqztvqt)
+Result: [jsfiddle](http://jsfiddle.net/5jqztvqt/1/)
 
 
 
