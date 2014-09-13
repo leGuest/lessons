@@ -7,7 +7,7 @@ table of content: <a href="../README.md">index</a>
 
   + [Introduction](./2014-09-16-sass-an-introduction.markdown#sass)
   
-    + [Reusability](./2014-09-16-sass-an-introduction.markdown#reusing-colors)
+    + [Reusability](./2014-09-16-sass-an-introduction.markdown#reusability)
     
     + [Reusing colors](./2014-09-16-sass-an-introduction.markdown#reusing-colors)
     
