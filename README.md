@@ -3,8 +3,8 @@ Lessons from scratch
 
 ##Table of contents
 
-  + [HTML](./html/__toc.markdown)
+  1. [HTML](./html/__toc.markdown)
 
-  + [CSS](./css/__toc.markdown)
+  2. [CSS](./css/__toc.markdown)
   
-  + [Sass](./sass/__toc.markdown)
+  3. [Sass](./sass/__toc.markdown)
