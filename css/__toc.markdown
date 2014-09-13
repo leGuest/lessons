@@ -22,8 +22,8 @@
   
   + [Id and class](./2014-09-16-css-id-and-class.markdown#css)
     
-    + [Identifiers](./2014-09-16-css-id-and-class.markdown#css-class)
+    + [Identifiers](./2014-09-16-css-id-and-class.markdown#identifier)
     
-    + [Class](./2014-09-16-css-id-and-class.markdown#css-class)
+    + [Class](./2014-09-16-css-id-and-class.markdown#class)
 
   
