@@ -19,8 +19,10 @@ table of content: <a href="../README.md">index</a>
     
   + [Architecture](./2014-09-17-sass-architecture-and-conventions.markdown#architecture)
   
-  + [Good practise - Comments](./2014-09-17-sass-good-practise-comments.markdown#comments)
+  + [Good practise - Comments](./2014-09-17-sass-good-practise-comments.markdown#sass)
+    
+    + [Comments](././2014-09-17-sass-good-practise-comments.markdown#comments)
   
-  + [Sass-doc](./2014-09-17-sass-good-practise-comments.markdown#sass-doc)
+    + [Sass-doc](./2014-09-17-sass-good-practise-comments.markdown#sass-doc)
   
   
