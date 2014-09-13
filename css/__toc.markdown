@@ -1,3 +1,8 @@
+---
+categories: html
+table of content: <a href="../README.md">index</a>
+---
+
 ####[CSS](#css)
   
   + [The old and deprecated way](./2014-09-13-css-an-introduction.markdown#old-and-deprecated-way)
