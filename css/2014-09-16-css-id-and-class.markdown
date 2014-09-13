@@ -8,7 +8,7 @@ table of content: <a href="../README.md">index</a>
 
 ####[CSS](#css)
 
-####[Id](#css-identifier)
+####[Identifier](#css-identifier)
 
 You can add a property to HTML to group or splits some HTML tag,
 by _using an identifier called id_.
@@ -46,5 +46,23 @@ will be:
 the ``#`` link the HTML id to the css instructions.
 
 Result: [jsfiddle](http://jsfiddle.net/007tcjnu/)
+
+####[Class](#css-class)
+
+A class is very similar to identifier. To declare a class, just replace
+``id`` with ``class``:
+
+```
+  <p class="article">content</p>
+```
+
+The main difference is an identifier will declare a group of content.
+It can be the menu, the articles content block, etc.
+A class will be more specific to an item of this content, like a
+articles' post.
+
+Some css conventions, like [BEM](http://bem.info/), don't use identifier, but only class.
+
+
 
 
