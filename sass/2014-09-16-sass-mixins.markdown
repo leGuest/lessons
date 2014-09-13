@@ -14,12 +14,12 @@ Since each browser (Chrome, Firefox, IE, Opera, Safari, etc)
 experiments its own rules, you have the specify the so-rules
 as experimental.
 
-Each browser as it proper prefixes, called _vendor-prefixes_.
+Each browser as it proper prefixes, called __vendor-prefixes__.
 These prefixes go before the CSS property.
 
  + webkit (Chrome, Safari) : ``-webkit-rule``,
 
- + gecko (firefox) : ``-moz-rule``,
+ + gecko (Firefox) : ``-moz-rule``,
 
  + old opera engine (Opera) : ``-o-rule``
 
@@ -34,7 +34,7 @@ is a usefull.
 
 ####[Mixins](#sass-mixins)
 
-Mixins are a way of _grouping a set of properties_.
+Mixins are a way of __grouping a set of properties__.
 Since we [DRY](./sass/2014-09-16-sass-an-introduction),
 we can regroup the vendor-prefixes for a specific property in
 mixins.
@@ -84,9 +84,4 @@ Then we can use it in ``main.sass`` file:
 ```
 
 Result: [jsfiddle](http://jsfiddle.net/5jqztvqt/1/)
-
-
-
-
-
 

@@ -9,7 +9,7 @@ table of content: <a href="../README.md">index</a>
 
 ####[Reusability](#reusability)
 
-_DRY (Do not Repeat Yourself)_ is a very important concept
+__DRY (Do not Repeat Yourself)__ is a very important concept
 in programmation.
 
 Developer is lazy, he does not want to do the write the 
@@ -18,7 +18,7 @@ same thing again and again.
 So he will use tricks like store colors into variables,
 seen in [this lesson](../css/2014-09-15-css-preprocessors.markdown#concrete-example).
 
-This for _reusability_.
+This for __reusability__.
 
 ####[Reusing colors](#reusing-colors)
 
