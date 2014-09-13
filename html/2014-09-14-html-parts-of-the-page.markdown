@@ -67,3 +67,10 @@ Don't worry about this ``id`` property yet, we'll come back later on it.
 
 <img src="../assets/images/html__layout--schema.png" width="400" alt="common html layout" />
 
+This is a simple one, and you usually extends from this base,
+by placing a sidebar at right or left, for example.
+
+All designs doesn't respect this template, but use out-of-the-box designs with precaution, since
+it can frustrate the user in its surfing experience.
+
+

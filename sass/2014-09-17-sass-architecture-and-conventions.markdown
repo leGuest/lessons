@@ -19,4 +19,3 @@ However, the structure is not conventioned, so you can structure
 how you want, the only need is to _get it clear for you and/or
 others developersç.
 
-####[]()

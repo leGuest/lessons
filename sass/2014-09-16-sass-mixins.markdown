@@ -66,6 +66,11 @@ file: ``utils/gradient.sass``
   }
 ```
 
+We declare that it's a mixin with ``@mixin``.
+``$fromColor`` and ``$toColor`` are the data passed to the mixin.
+That means that it will store into this variable the color we want to use.
+This variable are called _parameters_
+
 The ``filter`` property is for Internet Explorer.
 We also provide a ``background-color`` in case the gradient is not supported.
 
