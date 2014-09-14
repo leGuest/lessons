@@ -30,4 +30,24 @@ Let's take this file and anlyze the imports, one by one.
 
 ----
 
+[L15](../bower_components/bootstrap-sass-official/assets/stylesheets/\_bootstrap.scss#L15) :
+``$gray-darker: lighten(#000, 13.5%) !default; // #222``
+
+3 things here:
+
+  + ``lighten(color, percentage)`` takes a color and light this color by the given percentage. As you can see in the comment the resulted color is ``#222``
+  
+  + ``#000`` is the shortcut for ``#000000``
+  
+  + ``!default``: can be translated with an if:
+  ```
+    /**
+     *  if the color $gray-darker does not exists
+     *  set it to lighten(...)
+     *  else let the value already assigned
+     */
+    if not (exits($gray-darker) {
+      ``$gray-darker: lighten(#000, 13.5%) !default; // #222`
+    }
+  ```
 
