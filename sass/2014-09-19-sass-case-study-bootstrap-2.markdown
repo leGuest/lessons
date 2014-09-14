@@ -46,7 +46,7 @@ Let's take this file and anlyze the imports, one by one.
      *  set it to lighten(...)
      *  else let the value already assigned
      */
-    if not (exits($gray-darker) {
+    if not (exists($gray-darker) {
       ``$gray-darker: lighten(#000, 13.5%) !default; // #222`
     }
   ```
