@@ -23,8 +23,11 @@ Let's take this file and anlyze the imports, one by one.
 
 | file            | location                                    | imported from                   |
 |-----------------|---------------------------------------------|---------------------------------|
-| variables.scss  |[./bootstrap/_variables.scss</a>][variables] |[./bootstrap/main.scss][main]    |
+| variables.scss  |[./bootstrap/\_variables.scss][variables]    |[./\_bootstrap.scss][main]       |
 
-[variables]: ../bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_variables.scss
-[main]: ../bower_components/bootstrap-sass-official/assets/stylesheets/_bootstrap.scss#L2
+[variables]: ../bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/\_variables.scss
+[main]: ../bower_components/bootstrap-sass-official/assets/stylesheets/\_bootstrap.scss#L2
+
 ----
+
+
