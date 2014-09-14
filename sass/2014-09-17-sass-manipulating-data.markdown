@@ -76,10 +76,10 @@ depending on its value.
 
 ####[Explanations of the if condition](#sass-explanations-if)
 
-> __if__ $blue-secundary is equals to (``==``)  the value "#0066ff" 
-> then do the instruction (``{``) :
-> store ``#0088ff`` variable in ``$blue-secundary`` and
-> end the instruction (``}``)
+__if__ $blue-secundary is equals to (``==``)  the value "#0066ff" 
+then do the instruction (``{``) :
+store ``#0088ff`` variable in ``$blue-secundary`` and
+end the instruction (``}``)
 
 Obviously, this condition will always be met, since we declare (store the data in)
 the ``$blue-secundary`` variable.
@@ -114,30 +114,30 @@ To make a variable incrementing over time, we will use a __loop__:
 
 ####[Explanations of the for loop](#sass-explanations-for)
 
-> __For__ is the word to begin the loop,
-> it takes three parameters :
->
->   + An __assignment__ of the counter variable. An assignment the informatic way to say
->     "I store the value in the variable": ``$counter = 1``
->
->   + A __condition__: it works like __if__ condition, excepted it's reversed.
->     It will do the instructions of the for loop __unless__ the condition is met:
->     ``$counter < 200 ``
->
->   + A __incrementation__: We add 1 to counter. the ``++`` expression is a shortcut to say
->     ``add 1 to the current variable``.
->     Since in many loops, there will be a lot of incrementing just by 1.
->     It's better to know this shortcut.
->     so we could have wrote ``$counter + 1`` as ``$counter++``.
->     The loop will assign this incrementation to the current counter, so you don't need
->     to write ``$counter = $counter + 1``.
+__For__ is the word to begin the loop,
+it takes three parameters :
 
-> The for loop will repeat itself unless the condition is met.
-> So ``counter`` equals 1, the instructions will be run.
->
-> Once the instruction are finished (expressed by ``}``), the computer will back to the first line
-> of the for loop, check if the condition ``$counter < 200 `` is met, then increments the variable ``$counter``
-> by one ``$counter++``. Then the instruction are runned again, and again until the condition is met.
->
-> When the condition is met, the __for__ loop will stop running.
+  + An __assignment__ of the counter variable. An assignment the informatic way to say
+    "I store the value in the variable": ``$counter = 1``
+
+  + A __condition__: it works like __if__ condition, excepted it's reversed.
+    It will do the instructions of the for loop __unless__ the condition is met:
+    ``$counter < 200 ``
+
+  + A __incrementation__: We add 1 to counter. the ``++`` expression is a shortcut to say
+    ``add 1 to the current variable``.
+    Since in many loops, there will be a lot of incrementing just by 1.
+    It's better to know this shortcut.
+    so we could have wrote ``$counter + 1`` as ``$counter++``.
+    The loop will assign this incrementation to the current counter, so you don't need
+    to write ``$counter = $counter + 1``.
+
+The for loop will repeat itself unless the condition is met.
+So ``counter`` equals 1, __the instructions will be run__.
+
+Once the instruction are finished (expressed by ``}``), the __computer will back to the first line
+of the for loop__, check if the condition ``$counter < 200 `` is met, then increments the variable ``$counter``
+by one ``$counter++``. Then the __instruction are runned again, and again until the condition is met__.
+
+When the condition is met, the __for__ loop will stop running.
 
