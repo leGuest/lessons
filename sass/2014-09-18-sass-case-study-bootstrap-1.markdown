@@ -33,7 +33,7 @@ These variables are used to store the notifications color:
 
   + etc
 
-So with these variable if we want to do a paragraph to inform a success action, with ``$brand-success``,
+If we want to do a paragraph to inform a success action with ``$brand-success``,
 in ``utils/notifications.sass``:
 
 ```
@@ -51,3 +51,4 @@ in ``utils/notifications.sass``:
    }
 ```
 
+Result: [jsfiddle](http://jsfiddle.net/xpoyoz5f/)
