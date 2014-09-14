@@ -21,8 +21,10 @@ Let's take this file and anlyze the imports, one by one.
 
 ####[Variables](#sass-variables)
 
----
-file: variables.scss
-location: <a href="#">./bootstrap/_variables.scss</a>
-imported from: <a href="#">_bootstrap.scss</a>
----
+| file            | location                                    | imported from                   |
+|-----------------|---------------------------------------------|---------------------------------|
+| variables.scss  |[./bootstrap/_variables.scss</a>][variables] |[./bootstrap/main.scss][main]    |
+
+[variables]: ../bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_variables.scss
+[main]: ../bower_components/bootstrap-sass-official/assets/stylesheets/_bootstrap.scss#L2
+----
