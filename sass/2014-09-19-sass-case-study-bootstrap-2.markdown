@@ -50,4 +50,12 @@ Let's take this file and anlyze the imports, one by one.
       ``$gray-darker: lighten(#000, 13.5%) !default; // #222`
     }
   ```
+  
+----
+@todo  
 
+why default? http://en.wikipedia.org/wiki/Open/closed_principle
+  
+[L40](../bower_components/bootstrap-sass-official/assets/stylesheets/\_bootstrap.scss#L40)
+//** Link hover color set via `darken()` function.
+$link-hover-color: darken($link-color, 15%) !default;
