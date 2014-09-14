@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "sass: case study - bootstrap"
+title: "sass: case study - bootstrap - part 1"
 categories: sass
 table of content: <a href="../README.md">index</a>
 ---
