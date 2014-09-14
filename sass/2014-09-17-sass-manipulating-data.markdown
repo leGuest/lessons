@@ -117,7 +117,7 @@ To make a variable incrementing over time, we will use a __loop__:
 __For__ is the word to begin the loop,
 it takes three parameters :
 
-  + An __assignment__ of the counter variable. An assignment the informatic way to say
+  + An __assignment__ of the counter variable. An assignment is the algorithmic way to say
     "I store the value in the variable": ``$counter = 1``
 
   + A __condition__: it works like __if__ condition, excepted it's reversed.
@@ -139,5 +139,5 @@ Once the instruction are finished (expressed by ``}``), the __computer will back
 of the for loop__, check if the condition ``$counter < 200 `` is met, then increments the variable ``$counter``
 by one ``$counter++``. Then the __instruction are runned again, and again until the condition is met__.
 
-When the condition is met, the __for__ loop will stop running.
-
+When the condition ``$counter < 200 `` (that is ``$counter == 200``, $counter equals 200) is met, 
+the __for__ loop will stop running.
