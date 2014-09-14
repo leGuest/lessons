@@ -1,0 +1,20 @@
+{
+  "name": "lessons",
+  "version": "0.0.0",
+  "homepage": "https://github.com/leGuest/lessons",
+  "authors": [
+    "leGuest"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass-official": "~3.2.0+2"
+  }
+}
